@@ -1,5 +1,3 @@
-<img align="left" alt="Rapha-PicDrewIcon" height="150" style="border-radius:50px;" src="https://i.ibb.co/s2FSrKy/picasion-com-675f176f33f1fc46d58c4f547f1b204e.gif">
-
 <h1>Prazer, meu nome é Raphaela Oliveira 💖</h1>
 
 ##
